@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/iloveryuux/loglite/compare/v1.0.0...v1.1.0) (2024-08-03)
+
+
+### Features
+
+* add colors and new loglevels ([9e4a31e](https://github.com/iloveryuux/loglite/commit/9e4a31ecf44d59cf3e9b7956ee6033af8dee2681))
+
 ## 1.0.0 (2024-08-03)
 
 
