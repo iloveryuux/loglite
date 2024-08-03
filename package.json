@@ -41,5 +41,8 @@
         "default": "./dist/index.cjs"
       }
     }
+  },
+  "dependencies": {
+    "chalk": "^5.3.0"
   }
 }
